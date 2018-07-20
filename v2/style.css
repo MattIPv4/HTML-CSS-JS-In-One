@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css?family=Gaegu');
+
+html, body {
+    padding: 2em 4em;
+    background: #ff9999;
+    font-family: 'Gaegu', cursive;
+}
